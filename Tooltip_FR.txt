@@ -1,0 +1,13 @@
+Tooltip_FR = {
+ Tooltip_BookTitle_Carpentry = "La menuiserie",
+ Tooltip_BookTitle_Cooking = "La cuisine",
+ Tooltip_BookTitle_Farming = "L'agriculture",
+ Tooltip_BookTitle_FirstAid = "Les premiers secours",
+ Tooltip_BookTitle_Electrician = "L'électricité",
+ Tooltip_BookTitle_MetalWelding = "Le travail des métaux",
+ Tooltip_BookTitle_Mechanic = "La mécanique",
+ Tooltip_BookTitle_Tailoring = "La couture",
+ Tooltip_BookTitle_Fishing = "La pêche",
+ Tooltip_BookTitle_Trapping = "L'art du trappeur",
+ Tooltip_BookTitle_Foraging = "Recherche de nourriture",
+}
